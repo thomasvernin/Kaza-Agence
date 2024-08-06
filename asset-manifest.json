@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Kaza-Agence/static/css/main.f8dd470e.css",
+    "main.js": "/Kaza-Agence/static/js/main.f7ad8574.js",
+    "static/media/aproposIMG.png": "/Kaza-Agence/static/media/aproposIMG.59eff0b9c0a4f903ec73.png",
+    "static/media/IMG.png": "/Kaza-Agence/static/media/IMG.a5ee757294d759207123.png",
+    "static/media/LOGO(1).svg": "/Kaza-Agence/static/media/LOGO(1).3e4c432d7ff1ee4ae1aacb51708ee0c1.svg",
+    "index.html": "/Kaza-Agence/index.html",
+    "static/media/Vector.svg": "/Kaza-Agence/static/media/Vector.2da87fba751bb5cc84497bba8489fd7c.svg",
+    "static/media/transparent-rating-icon.svg": "/Kaza-Agence/static/media/transparent-rating-icon.99a325d38c383d3d0a17053560592950.svg",
+    "static/media/colored-rating-icon.svg": "/Kaza-Agence/static/media/colored-rating-icon.4cbf93c7fd3ea48f15d541360820dd07.svg",
+    "main.f8dd470e.css.map": "/Kaza-Agence/static/css/main.f8dd470e.css.map",
+    "main.f7ad8574.js.map": "/Kaza-Agence/static/js/main.f7ad8574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8dd470e.css",
+    "static/js/main.f7ad8574.js"
+  ]
+}
